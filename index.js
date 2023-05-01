@@ -1,5 +1,5 @@
-function doSmt(thing) {
-    return thing + 1
+function sum(a, b) {
+    return a + b
 }
 
-module.exports = doSmt;
+module.exports = sum;
